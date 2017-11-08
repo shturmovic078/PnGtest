@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93300" started-at="2017-11-08T22:45:30Z" finished-at="2017-11-08T22:47:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93300" started-at="2017-11-08T22:45:30Z" finished-at="2017-11-08T22:47:03Z">
+      <class name="brand.automation.PreferenceCenter">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="setUp" is-config="true" duration-ms="9994" started-at="2017-11-08T17:45:30Z" finished-at="2017-11-08T17:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginLink()[pri:1, instance:brand.automation.PreferenceCenter@6e1567f1]" name="loginLink" duration-ms="20097" started-at="2017-11-08T17:45:40Z" finished-at="2017-11-08T17:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLink -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="getResult" is-config="true" duration-ms="2" started-at="2017-11-08T17:46:00Z" finished-at="2017-11-08T17:46:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginLink status=SUCCESS method=PreferenceCenter.loginLink()[pri:1, instance:brand.automation.PreferenceCenter@6e1567f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="invalidLogin()[pri:2, instance:brand.automation.PreferenceCenter@6e1567f1]" name="invalidLogin" duration-ms="7094" started-at="2017-11-08T17:46:00Z" finished-at="2017-11-08T17:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="getResult" is-config="true" duration-ms="0" started-at="2017-11-08T17:46:07Z" finished-at="2017-11-08T17:46:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidLogin status=SUCCESS method=PreferenceCenter.invalidLogin()[pri:2, instance:brand.automation.PreferenceCenter@6e1567f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="validLogin()[pri:3, instance:brand.automation.PreferenceCenter@6e1567f1]" name="validLogin" duration-ms="6994" started-at="2017-11-08T17:46:07Z" finished-at="2017-11-08T17:46:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="resetPassword()[pri:4, instance:brand.automation.PreferenceCenter@6e1567f1]" name="resetPassword" duration-ms="19054" started-at="2017-11-08T17:46:14Z" finished-at="2017-11-08T17:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPassword -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="getResult" is-config="true" duration-ms="0" started-at="2017-11-08T17:46:14Z" finished-at="2017-11-08T17:46:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=PreferenceCenter.validLogin()[pri:3, instance:brand.automation.PreferenceCenter@6e1567f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="getResult" is-config="true" duration-ms="0" started-at="2017-11-08T17:46:33Z" finished-at="2017-11-08T17:46:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=resetPassword status=SUCCESS method=PreferenceCenter.resetPassword()[pri:4, instance:brand.automation.PreferenceCenter@6e1567f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="setPassword()[pri:5, instance:brand.automation.PreferenceCenter@6e1567f1]" name="setPassword" duration-ms="26028" started-at="2017-11-08T17:46:33Z" finished-at="2017-11-08T17:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="tearDown" is-config="true" duration-ms="3800" started-at="2017-11-08T17:46:59Z" finished-at="2017-11-08T17:47:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="getResult" is-config="true" duration-ms="0" started-at="2017-11-08T17:46:59Z" finished-at="2017-11-08T17:46:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setPassword status=SUCCESS method=PreferenceCenter.setPassword()[pri:5, instance:brand.automation.PreferenceCenter@6e1567f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:brand.automation.PreferenceCenter@6e1567f1]" name="endReport" is-config="true" duration-ms="220" started-at="2017-11-08T17:47:03Z" finished-at="2017-11-08T17:47:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- brand.automation.PreferenceCenter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
