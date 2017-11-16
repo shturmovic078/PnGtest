@@ -266,3 +266,25 @@ java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org
 
 !ENTRY com.android.ide.eclipse.adt 2 0 2017-11-08 18:06:34.533
 !MESSAGE No projects found for [/Users/agolubev1/Documents/PnGtest/automation/PreferenceCenter.xml]
+!SESSION 2017-11-16 10:17:13.702 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/agolubev1/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/agolubev1/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-11-16 10:17:22.263
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2017-11-16 10:17:23.554
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2017-11-16 10:17:35.041
+!MESSAGE No valid Android XML Editor Delegate found for file /automation/preference_center.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2017-11-16 10:17:36.123
+!MESSAGE No valid Android XML Editor Delegate found for file /automation/extent-config.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2017-11-16 10:17:36.274
+!MESSAGE No valid Android XML Editor Delegate found for file /automation/PreferenceCenter.xml [Res null, type null]

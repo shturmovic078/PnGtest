@@ -1,7 +1,18 @@
+
 <!DOCTYPE html>
 <html>
 	<head>
-		
+		<!--
+			ExtentReports Library 2.41.1 | http://relevantcodes.com/extentreports-for-selenium/ | https://github.com/anshooarora/
+			Copyright (c) 2015, Anshoo Arora (Relevant Codes) | Copyrights licensed under the New BSD License | http://opensource.org/licenses/BSD-3-Clause
+			Documentation: http://extentreports.relevantcodes.com 
+		-->
+
+		<meta charset='UTF-8' /> 
+		<meta name='description' content='ExtentReports (by Anshoo Arora) is a reporting library for automation testing for .NET and Java. It creates detailed and beautiful HTML reports for modern browsers. ExtentReports shows test and step summary along with dashboards, system and environment details for quick analysis of your tests.' />
+		<meta name='robots' content='noodp, noydir' />
+		<meta name='viewport' content='width=device-width, initial-scale=1' />
+		<meta name='extentx' id='extentx' content='' />
 		
 		<title>
 				ExtentReports 2.0
@@ -11,7 +22,13 @@
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
 		<link href='https://cdn.rawgit.com/anshooarora/extentreports/45123d736a03aca0abc5c4fcf1e746fef49736fd/cdn/extent.css' type='text/css' rel='stylesheet' />
 		
-	
+		<style>
+				
+      
+        
+      
+    
+		</style>
 	</head>
 	
 	

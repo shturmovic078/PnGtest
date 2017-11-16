@@ -555,3 +555,30 @@
 2017-11-08 18:06:34,639 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/main/resources
 2017-11-08 18:06:34,641 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-11-08 18:06:34,641 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/test/resources
+2017-11-09 10:59:02,173 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-09 10:59:02,206 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/main/resources
+2017-11-09 10:59:02,217 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-09 10:59:02,217 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/test/resources
+2017-11-09 10:59:40,532 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-09 10:59:40,535 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/main/resources
+2017-11-09 10:59:40,536 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-09 10:59:40,536 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/test/resources
+2017-11-09 10:59:41,549 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-09 10:59:41,549 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/main/resources
+2017-11-09 10:59:41,549 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-09 10:59:41,549 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/test/resources
+2017-11-16 10:17:29,429 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-16 10:17:32,523 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chrome:browser:0.0.1-SNAPSHOT @ /Users/agolubev1/Documents/PnGtest/automation/pom.xml.
+2017-11-16 10:17:33,667 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-16 10:17:33,667 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/main/resources
+2017-11-16 10:17:33,669 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-16 10:17:33,669 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/test/resources
+2017-11-16 10:17:34,256 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: chrome:browser:0.0.1-SNAPSHOT @ /Users/agolubev1/Documents/PnGtest/automation/pom.xml.
+2017-11-16 10:17:35,117 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-16 10:17:35,117 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/main/resources
+2017-11-16 10:17:35,120 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-16 10:17:35,120 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/test/resources
+2017-11-16 10:19:00,405 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-16 10:19:00,405 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/main/resources
+2017-11-16 10:19:00,406 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-16 10:19:00,406 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/agolubev1/Documents/PnGtest/automation/src/test/resources
