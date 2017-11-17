@@ -148,7 +148,28 @@
 										<th>Value</th>
 									</tr>
 								</thead>
-							
+								<tbody>
+										<tr>
+											<td>User Name</td>
+											<td>Rajkumar SM</td>
+										</tr>
+										<tr>
+											<td>OS</td>
+											<td>Mac OS X</td>
+										</tr>
+										<tr>
+											<td>Java Version</td>
+											<td>1.8.0_144</td>
+										</tr>
+										<tr>
+											<td>Host Name</td>
+											<td>SoftwareTestingMaterial</td>
+										</tr>
+										<tr>
+											<td>Environment</td>
+											<td>Automation Testing</td>
+										</tr>
+								</tbody>
 							</table>
 						</div>
 					</div>
